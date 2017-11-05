@@ -81,6 +81,7 @@ body {
 	height: 300px;
 	display: flex;
 	align-items: center;
+	position: relative;
 }
 .tel1, .tel2, .comp, .mouse, .monitor, .game, .back {
 	position: absolute;
